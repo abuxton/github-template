@@ -1,0 +1,20 @@
+name: Template Sync
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  sync-from-template:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: AndreasAugustin/actions-template-sync@v2.5.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_repo_path: abuxton/github-template
+          upstream_branch: main
