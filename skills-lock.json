@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "agent-rules": {
+      "source": "netresearch/agent-rules-skill",
+      "sourceType": "github",
+      "computedHash": "150f17d67ab0a98e4955a1b54c3697942cd9b9487bb56ec6f0a111a5c8168171"
+    },
     "agentic-workflow": {
       "source": "supercent-io/skills-template",
       "sourceType": "github",
@@ -10,6 +15,11 @@
       "source": "supercent-io/skills-template",
       "sourceType": "github",
       "computedHash": "3496ecf2313bf8bd47280ef8c49f9b9958b390bb800745f956139d68a44dbb49"
+    },
+    "asciinema-record": {
+      "source": "abuxton/Skills",
+      "sourceType": "github",
+      "computedHash": "1e78e2dc27574965ff9b8701fbffd160efdad4888ea75410c789281f769fc659"
     },
     "code-refactoring": {
       "source": "supercent-io/skills-template",
@@ -21,6 +31,11 @@
       "sourceType": "github",
       "computedHash": "ac61353e7ec0c8b98660accf0c9688bf5183044b7fa1ee1e189c680ff1a083c6"
     },
+    "do-nothing-scripting": {
+      "source": "abuxton/Skills",
+      "sourceType": "github",
+      "computedHash": "e6eaf07a0305d3caa7e05fcc6474ddf150afaa423a2812aaf33738298f94ecc5"
+    },
     "doc-coauthoring": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -30,6 +45,16 @@
       "source": "supercent-io/skills-template",
       "sourceType": "github",
       "computedHash": "a8f2d356cee50a0c64eeded9762de58d5227ba3a47b91cdd9889ba84dff9d020"
+    },
+    "github-gist": {
+      "source": "abuxton/Skills",
+      "sourceType": "github",
+      "computedHash": "1fedfb4a1e08ccd92b7fe06505cd920492cb8a4f4f342d7eeec93f3425fb92ed"
+    },
+    "shields-badges": {
+      "source": "abuxton/Skills",
+      "sourceType": "github",
+      "computedHash": "285857def59b9514abd6d3d4aaa4e61766dce4288935f9d3f90c4a3ecbd8b6f8"
     },
     "skill-creator": {
       "source": "anthropics/skills",
@@ -65,6 +90,11 @@
       "source": "supercent-io/skills-template",
       "sourceType": "github",
       "computedHash": "e396b8378c0c98b92fb849ec7a94d5adb902b9f33b37188c8942073112ae8558"
+    },
+    "writing-skills": {
+      "source": "abuxton/Skills",
+      "sourceType": "github",
+      "computedHash": "a98993eaa78f1990d78df8b82497b80aa158e2996decb8e328e2e594f53b9635"
     }
   }
 }
