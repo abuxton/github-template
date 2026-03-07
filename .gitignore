@@ -140,3 +140,6 @@ sketch
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/dotenv,git,go,linux,macos,osx,react,ssh,visualstudiocode
+
+**/skills
+!/skills/**
