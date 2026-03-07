@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "skills": {
+    "agentic-workflow": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "ddfdcbfabb798e9f70be46c8697080bc15acd6c333bb6b42ee223e0d5afeb84d"
+    },
+    "ai-tool-compliance": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "3496ecf2313bf8bd47280ef8c49f9b9958b390bb800745f956139d68a44dbb49"
+    },
+    "code-refactoring": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "18da189464fd9a53133a1372599369ac4b7f3a9da653a907762e20e89cdb2102"
+    },
+    "code-review": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "ac61353e7ec0c8b98660accf0c9688bf5183044b7fa1ee1e189c680ff1a083c6"
+    },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "b964e4c3ffe13f66f76dd7919073e60c7aec622cd8a8363bb36323188100cf8e"
+    },
+    "git-workflow": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "a8f2d356cee50a0c64eeded9762de58d5227ba3a47b91cdd9889ba84dff9d020"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "b122f4d1e91aa1d83027e050b5b37c3156203ee85458d7b1360bc48167c9e02a"
+    },
+    "skill-standardization": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "ec160cbe9b9975c3e0bd487e5df839c157667af1af1ab2c98b64d1c9b7dd2c1b"
+    },
+    "task-estimation": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "5166ae0e4efc5fb8ec47e9484762895be86eec68ad177acd75555fddc0b81b45"
+    },
+    "task-planning": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "1459a31d3c87df7fd601a99479363a7f66da1cd2089f08405a7d4854d0da3a93"
+    },
+    "technical-writing": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "0f4fb1976596822509e3ef98546250d89337bce036c99b0bae1f6598fe0a156c"
+    },
+    "template-skill": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "38c88f722b574a922311d334a70c2008a2a5b896f06eaa75516d716e5725b26f"
+    },
+    "user-guide-writing": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "e396b8378c0c98b92fb849ec7a94d5adb902b9f33b37188c8942073112ae8558"
+    }
+  }
+}
